@@ -1,6 +1,8 @@
 # chat-with-URL - LangChain Chatbot with Streamlit GUI
 
-Welcome to the GitHub repository for the LangChain Chatbot with Streamlit GUI! This project is a comprehensive guide to building a chatbot capable of interacting with websites, extracting information, and communicating in a user-friendly manner. It leverages the power of LangChain and integrates it with a Streamlit GUI for an enhanced user experience.
+Welcome to the GitHub repository for the LangChain Chatbot with Streamlit GUI! This project is a comprehensive guide to building a chatbot capable of interacting with websites, extracting information, and communicating in a user-friendly manner. It leverages the power of LangChain and integrates it with a Streamlit GUI for an enhanced user experience.![HTML-rag-diagram](https://github.com/malavicasurakanti/chat-with-URL/assets/144533175/80bc87b1-086d-4669-a1b1-ae46fb01cac9)
+
+
 
 ## Features
 - **Website Interaction**: The chatbot uses the latest version of LangChain to interact with and extract information from various websites.
